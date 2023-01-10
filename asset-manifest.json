@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mumresumeRus/static/css/main.f1163067.css",
+    "main.js": "/mumresumeRus/static/js/main.591f7f0b.js",
+    "index.html": "/mumresumeRus/index.html",
+    "main.f1163067.css.map": "/mumresumeRus/static/css/main.f1163067.css.map",
+    "main.591f7f0b.js.map": "/mumresumeRus/static/js/main.591f7f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1163067.css",
+    "static/js/main.591f7f0b.js"
+  ]
+}
